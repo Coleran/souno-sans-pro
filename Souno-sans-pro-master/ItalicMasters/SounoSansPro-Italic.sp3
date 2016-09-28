@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="weight"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="sequence"/>
+    <data name="generateFontsAtFolder" value="/Users/markcoleran/Desktop/Font One Adaptation/Source Sans Adapted One/Fonts_v5/Souno-sans-pro-master/ItalicMasters/instances"/>
+    <data name="previewtext" value="Ag1"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="weight" shortname="wt">
+        <color a="1.000" b="0.000" g="0.000" r="0.000"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Souno Sans Pro" filename="SounoSansPro-Italic_0.ufo" sortorder="0" stylename="ItalicMaster0">
+        <location>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.500" g="0.000" r="1.000"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </master>
+    <master familyname="Souno Sans Pro" filename="SounoSansPro-Italic_1.ufo" sortorder="1" stylename="ItalicMaster1">
+        <location>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.500" g="1.000" r="0.000"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="Souno Sans Pro" filename="instances/SounoSansPro-ExtraLightItalic.ufo" sortorder="2" stylename="ExtraLight Italic">
+        <location>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Souno Sans Pro" filename="instances/SounoSansPro-LightItalic.ufo" sortorder="3" stylename="Light Italic">
+        <location>
+            <dimension name="weight" xvalue="100.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Souno Sans Pro One" filename="instances/SounoSansProOne-Italic.ufo" sortorder="4" stylename="Italic">
+        <location>
+            <dimension name="weight" xvalue="368.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Souno Sans Pro" filename="instances/SounoSansPro-SemiboldItalic.ufo" sortorder="5" stylename="Semibold Italic">
+        <location>
+            <dimension name="weight" xvalue="600.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Souno Sans Pro" filename="instances/SounoSansPro-BoldItalic.ufo" sortorder="6" stylename="Bold Italic">
+        <location>
+            <dimension name="weight" xvalue="824.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Souno Sans Pro" filename="instances/SounoSansPro-BlackItalic.ufo" sortorder="7" stylename="Black Italic">
+        <location>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+</designspace>
