@@ -5,6 +5,8 @@ Alteration of the numeral ‘one’ glyph to remove the heavy head serif.
 
 Reserved Font Family name changed from ‘Source’ to ‘Souno’ in compliance with the SIL open font license.
 
+![1 Changed Image Example](https://github.com/Coleran/souno-sans-pro/blob/master/image.png "CHanged Glyph 1")
+
 
 Modified Glyphs: 
 one
